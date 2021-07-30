@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elsayed01
-- 👀 I’m interested in machine learning field
-- 🌱 I’m currently learning machine learning programming with python
+- 👀 I’m interested in programming generally
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:  elsyed.ahmed1@gmail.com
 
