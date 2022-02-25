@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elsayed01
 - 👀 I’m interested in programming generally
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently a junior web developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:  elsyed.ahmed1@gmail.com
 
