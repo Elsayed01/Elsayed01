@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elsayed</h1>
-<h3 align="center">A passionate frontend web developer from Egypt</h3>
+<h3 align="center">A passionate web developer from Egypt</h3>
 
-- 🔭 I’m currently working on **CSS Design Templates**
+- 🔭 I’m currently working on **Web Applications using React & Redux**
 
-- 🌱 I’m currently learning **Bootstrap5**
+- 🌱 I’m currently learning **PHP & Laravel**
 
 - 📫 How to reach me **elsyed.ahmed1@gmail.com**
 
